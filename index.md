@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Magic 2048 Help Page
 
 You can use the [editor on GitHub](https://github.com/JerryZhang0920/Magic2048/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
