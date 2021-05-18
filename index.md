@@ -13,3 +13,4 @@ Magic Items are powerful items that can be purchased using tokens in the shop.
 
 # FAQs:
 
+Lose Focus Problem: 
