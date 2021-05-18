@@ -10,4 +10,6 @@ Tokens is the currency of the game that is rewarded to the user based on their p
 # Magic Items:
 
 Magic Items are powerful items that can be purchased using tokens in the shop.
+
 # FAQs:
+
