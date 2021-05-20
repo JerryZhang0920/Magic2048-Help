@@ -12,8 +12,9 @@ The amount that is given every game is based on this formula: Progression% * 100
 # Magic Items:
 
 Magic Items are powerful items that can be purchased using tokens in the shop.
-| Magic Item  | Description |  Cost in Tokens   |
-|  :----:      |    :----:   |      :----: |
+
+| Magic Item      | Description |  Cost in Tokens   |
+|  :----:         |    :----:   |      :----: |
 | The Lightning   | Remove A Tile Instantly | 10   |
 | Book Of Double  | Double A Tile's Value     | 30    |
 | Control Z  | Undo The Last Step   | 15    |
