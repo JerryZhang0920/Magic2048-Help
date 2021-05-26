@@ -27,7 +27,7 @@ Magic Items are powerful items that can be purchased using tokens in the shop. H
 
 ## 2. Keep your highest value tiles lined-up.
 
-![alt text](https://github.com/JerryZhang0920/Magic2048/blob/main/Magic2048.jpg)
+![Game Grid]()
 For example, I keep my highest value tiles in one column.
 
 ## 3. Keep the tiles occupied
