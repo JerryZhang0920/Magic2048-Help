@@ -42,7 +42,7 @@ The magic items are built to make your gameplay easier! For example, when an unf
 
 # Leaderboard:
 
-
+The Leaderboard in the game ranks the players based on their Max Tiles. When two or more players have the same Max Tiles, players with less # of moves will have a higher rank.
 
 # FAQs:
 
