@@ -25,6 +25,8 @@ Magic Items are powerful items that can be purchased using tokens in the shop. H
 
 ## 1. Keep your tile with the highest value in one corner of the whole game.
 
+This is one of the earliest strategies that player discovered of beating 2048 is to keep your highest-value tile in one corner for the entire game and slowly build it up.
+
 ## 2. Keep your highest value tiles lined-up.
 
 ![Game Grid](/assets/Magic2048.jpg)
@@ -32,7 +34,11 @@ For example, I keep my highest value tiles in one column.
 
 ## 3. Keep the tiles occupied
 
+The game will spawn tiles randomly at empty tiles and it can often spell the end of your game when a tile suddenly spawns at an unfortunate place. An interesting strategy that AI seem to adopt is to keep most of the tiles occupied so they can control where new tiles can be spawned.
+
 ## 4. Use the Magic Items when necessary!
+
+The magic items are built to make your gameplay easier! For example, when an unfortunate random tile spawn in between two tiles you want to merge, Strike **The Lightning**! When you accidently press the wrong key, **Undo it**!. When you have a 1024 and the grid is about to be full, **Double it**! 
 
 # Leaderboard:
 
